@@ -14,29 +14,44 @@ The file:
 - print the numbers in a single column with the sum at the bottom
 
 ```
-111
-10
-20
-30
-40
-50
-60
-70
-99
-98
-97
-1
-2
-33
-44
-55
-66
-77
-88
-99
-101
-123
-456
-----
-1830
-```
+def main():
+    print("111")
+    print()
+    print("10")
+    print()
+    print("20")
+    print()
+    print("30"
+    print()
+    print("40")
+    print()
+    print("50")
+    print()
+    print("60")
+    print()
+    print("70")
+    print()
+    print("99")
+    print()
+    print("98")
+    print()
+    print("97")
+    print()
+    print("1")
+    print()
+    print("2")
+    print()
+    33
+    44
+    55
+    66
+    77
+    88
+    99
+    101
+    123
+    456
+    ----
+    1830
+    ```
+main()
